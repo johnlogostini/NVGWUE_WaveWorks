@@ -1,6 +1,6 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
-#include "WaveworksTester.h"
+#include "NVGWUE_WaveWorks.h"
 #include "RaycastOceanTutorial.h"
 
 

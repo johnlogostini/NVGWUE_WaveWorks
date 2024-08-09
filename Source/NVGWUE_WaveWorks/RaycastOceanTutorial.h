@@ -7,7 +7,7 @@
 #include "RaycastOceanTutorial.generated.h"
 
 UCLASS()
-class WAVEWORKSTESTER_API ARaycastOceanTutorial : public AActor
+class NVGWUE_WAVEWORKS_API ARaycastOceanTutorial : public AActor
 {
 	GENERATED_BODY()
 	

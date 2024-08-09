@@ -6,7 +6,7 @@
 #include "WaveWorksFloatingComponent.generated.h"
 
 UCLASS( ClassGroup=(Custom), meta=(BlueprintSpawnableComponent) )
-class WAVEWORKSTESTER_API UWaveWorksFloatingComponent : public UActorComponent
+class NVGWUE_WAVEWORKS_API UWaveWorksFloatingComponent : public UActorComponent
 {
 	GENERATED_BODY()
 

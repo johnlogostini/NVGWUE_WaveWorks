@@ -3,12 +3,12 @@
 using UnrealBuildTool;
 using System.Collections.Generic;
 
-public class WaveworksTesterTarget : TargetRules
+public class NVGWUE_WaveWorksTarget : TargetRules
 {
-	public WaveworksTesterTarget(TargetInfo Target) : base(Target)
+	public NVGWUE_WaveWorksTarget(TargetInfo Target) : base(Target)
     {
 		Type = TargetType.Game;
 
-        ExtraModuleNames.Add("WaveworksTester");
+        ExtraModuleNames.Add("NVGWUE_WaveWorks");
     }
 }

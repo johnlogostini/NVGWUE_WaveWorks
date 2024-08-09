@@ -2,9 +2,9 @@
 
 using UnrealBuildTool;
 
-public class WaveworksTester : ModuleRules
+public class NVGWUE_WaveWorks : ModuleRules
 {
-	public WaveworksTester(ReadOnlyTargetRules Target) : base(Target)
+	public NVGWUE_WaveWorks(ReadOnlyTargetRules Target) : base(Target)
     {
 		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore" });
 
