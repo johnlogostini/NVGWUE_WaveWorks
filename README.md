@@ -1,1 +1,1 @@
-# NVGWUE_WaveWorks
+# NVIDIA GameWorks - WaveWorks
